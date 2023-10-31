@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Subdomain Takeover PoC" />
         <p className="description">
-          by sumitsahoo.com
+          by <a href="https://www.sumitsahoo.com/">sumitsahoo.com</a>
         </p>
       </main>
 
